@@ -1,7 +1,7 @@
 /*
 * Author: Daniel Evans
 * Date: January 11, 2022
-* Description:  Its a game that allows you to move a circle and try not to collide with the rectangle-the "axe"
+* Description:  Its a game that allows you to move a circle and try not to collide with the rectangle-the "axe". Hope this is fun!
 */
 #include "raylib.h"
 
